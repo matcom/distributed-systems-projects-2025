@@ -1,5 +1,11 @@
 # Repositorio para la entrega de proyectos de la asignatura Sistemas Distribuidos en el curso 2025
 
+## Cada equipo debe:
+
+1. Crear un issue en el presente repositorio que contenga el nombre completo de sus integrantes, grupo, tema asignado y link al repo que da solución a su problemática
+2. Cumplir con los requisitos generales de los proyectos.
+3. Cumplir con el cronograma de entrega de las evaluaciones.
+
 ## Requisitos generales para una entrega válida del proyecto
 
 1. Trabajo individual demostrable mediante el uso extensivo del sistema de control de versiones GIT.
